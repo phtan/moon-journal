@@ -1,5 +1,5 @@
-# technologist-journal
-Journal of a part-time technologist
+# moon-journal
+愿人长久千里共婵娟
 
 ### Assumptions
 
